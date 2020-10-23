@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListeElement</string>
+
+    <string-array name="android_version">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+    </string-array>
+    <string-array name="description">
+        <item>Version 1.5</item>
+        <item>Version 1.6</item>
+        <item>Version 2.0</item>
+    </string-array>
+</resources>
